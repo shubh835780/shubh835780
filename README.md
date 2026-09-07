@@ -40,7 +40,8 @@
 
 ## Creative toolkit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-E34F26?style=for-the-badge&logo=ETL&logoColor=white) ![Data Warehousing](https://img.shields.io/badge/DataWarhousing-007ACC?style=for-the-badge&logo=DataWarehousing&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=SQL&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-0078D4?style=for-the-badge&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-119DA8?style=for-the-badge&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## Make something memorable
 
