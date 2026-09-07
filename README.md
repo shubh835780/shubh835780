@@ -7,7 +7,7 @@
 </p>
 
 <h1>Shubham Singh</h1>
-<p><b>Freelance developer or consultant</b></p>
+<p><b>ETL Tester or Test Analyst</b></p>
 
 </div>
 
@@ -51,4 +51,4 @@
 
 <a href="https://github.com/shubh835780">GitHub</a>
 
-<p align="center"><sub>Shubham Singh · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Shubham Singh · 
